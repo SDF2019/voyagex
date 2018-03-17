@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS voyagexDB;
+CREATE DATABASE voyagexDB;
+
+USE voyagexDB;
